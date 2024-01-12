@@ -1,2 +1,4 @@
 # Income_Inequality
-Income inequality in Us Citizen 
+## Income inequality in US Citizen
+
+In our battle of promoting pay equality and addressing income disparities, we delve into a comprehensive dataset encapsulating diverse attributes of US citizens, including details on occupation, education, gender, and race. Our primary objective is to construct a predictive model capable of accurately classifying individuals into low and high-income categories by deploying a KNN classifier. Utilizing advanced machine learning techniques, we aim to uncover patterns within the data, shedding light on the key attributes influencing income levels. This not only facilitates precise classification but also serves as a tool for understanding the intricate interplay of factors in shaping financial outcomes. The project encompasses three main tasks naming, data cleaning, data exploration and modelling. Through data-driven insights, we aspire to inform evidence-based policies, contributing to the advancement of equal pay and socio-economic justice in the United States.
